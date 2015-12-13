@@ -1,0 +1,1 @@
+del *.hi *.ho *.exe
